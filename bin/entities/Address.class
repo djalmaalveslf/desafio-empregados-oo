@@ -1,20 +1,0 @@
-Êþº¾   =   entities/Address  java/lang/Object email Ljava/lang/String; phone <init> ()V Code
-    	 LineNumberTable LocalVariableTable this Lentities/Address; '(Ljava/lang/String;Ljava/lang/String;)V	    	     getEmail ()Ljava/lang/String; setEmail (Ljava/lang/String;)V getPhone setPhone 
-SourceFile Address.java !                   	  
-   3     *· ±    
-   
-                       
-   Y     *· *+µ *,µ ±    
-       
-   	   
-                              
-   /     *´ °    
-                        
-   >     *+µ ±    
-   
-                             
-   /     *´ °    
-                        
-   >     *+µ ±    
-   
-                              
